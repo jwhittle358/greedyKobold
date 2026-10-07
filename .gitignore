@@ -1,0 +1,17 @@
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+.e*v
+
+.vscode/
+
+bin/
+
+*ist*
+
+coverage.out
+
+vendor/
