@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Log Collector Starting...")
+	fmt.Println("Go Log Collector Starting...")
 }
